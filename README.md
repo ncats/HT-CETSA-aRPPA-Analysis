@@ -22,7 +22,7 @@ Digital luminescence images are analyzed using a customized MATLAB (The Mathwork
 
 ## Academic credits
 
-The proof of concept for the use of this Matlab file for High-throughput cellular thermal shift assay (CETSA) measurement is published in a peer-reviewed journal article, which is cited below.
+The proof of concept for the use of this Matlab file for high-throughput cellular thermal shift assay (CETSA) measurement is published in a peer-reviewed journal article, which is cited below.
 
 Title:
 High-throughput cellular thermal shift assay (CETSA) using acoustic transfer of protein lysates
