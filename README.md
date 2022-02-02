@@ -7,7 +7,7 @@ a190606_PlateSpot_v08_v02b_ForPublication220202.m
 ```
 
 ## Brief description of file function
-This matlab script runs in Matlab 2021a and requires the 'image analysis toobox'. The script functions as described in Material and Methods section of peer reviewed scientific journal article title: 
+This script runs in Matlab 2021a and requires the 'image analysis toobox'. The script functions as described in Material and Methods section of peer reviewed scientific journal article title: 
 High-throughput cellular thermal shift assay (CETSA) using acoustic transfer of protein lysates
 Authors:
 Ashley E. Owens1, Michael J. Iannotti1, Tino W. Sanchez1, Ty Voss1, Abhijeet Kapoor1, Matthew D. Hall1, Juan J. Marugan1, Sam Michael1, Noel Southall1, Mark J. Henderson1* 
